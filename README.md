@@ -24,9 +24,9 @@
 
 
 ### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+- [微信公众号：小帅随笔](https://cdn.jsdelivr.net/gh/gms2020/BlogPicture/img/20210218120955.png)
+- [小帅博客](http://xiaoshuai.link/)
+- [小帅导航](https://xydh.fun/gmengshuai)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
