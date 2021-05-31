@@ -9,7 +9,7 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; 
-![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C/C++&logoColor=007396)
+![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=Java&logoColor=007396)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
