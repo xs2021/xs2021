@@ -1,5 +1,5 @@
 ## Hello GitHub Fans 👋
-[![小帅交流群](https://img.shields.io/badge/小帅交流QQ群-765653974-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
+[![小帅交流群](https://img.shields.io/badge/小帅QQ交流群-765653974-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
 ---
 <img align="right" alt="GIF" src="https://cdn.jsdelivr.net/gh/gms2020/BlogPicture/img/20210531223235.gif" />
 
