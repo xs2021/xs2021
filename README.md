@@ -27,6 +27,7 @@
 - [微信公众号：小帅随笔](https://cdn.jsdelivr.net/gh/gms2020/BlogPicture/img/20210218120955.png)
 - [小帅博客](http://xiaoshuai.link/)
 - [小帅导航](https://xydh.fun/gmengshuai)
+- [小帅同学的储物间](http://gmengshuai.uepan.com)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
