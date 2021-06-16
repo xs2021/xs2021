@@ -29,6 +29,5 @@
 - [小帅导航](https://xydh.fun/gmengshuai)
 - [小帅同学的储物间](http://gmengshuai.uepan.com)
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 ⭐️ From [xs2021](https://github.com/xs2021)
