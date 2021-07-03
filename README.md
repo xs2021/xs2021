@@ -25,7 +25,7 @@
 
 ### 关于我
 - [微信公众号：小帅随笔](https://cdn.jsdelivr.net/gh/gms2020/BlogPicture/img/20210218120955.png)
-- [小帅博客](http://xiaoshuai.link/)
+- [小帅博客](https://xiaoshuai.link/)
 - [小帅导航](https://xydh.fun/gmengshuai)
 - [小帅同学的储物间](http://gmengshuai.uepan.com)
 
